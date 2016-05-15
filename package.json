@@ -1,0 +1,24 @@
+{
+  "name": "fcc-api-file-metadata-microservice",
+  "description": "When I submit something, I will receive the file size in bytes within the JSON response",
+  "author": "Kien Nguyen <anhkien96@gmail.com>",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.13.4",
+    "multer": "1.1.0",
+  },
+  "keywords": [
+    "fcc",
+    "freecodecamp",
+    "api",
+    "file",
+    "metadata",
+    "microservice",
+    "anhkien96"
+  ]
+}
