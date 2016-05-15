@@ -9,7 +9,7 @@ By Kien Nguyen <anhkien96@gmail.com>
 
 ### Example usage
 ```
-Upload file.
+Upload file with field "file".
 ```
 ### Example output
 ```
